@@ -1,2 +1,42 @@
 //import vars and modules
 @import '_vars'
+
+.sidebar {
+    background-color: $bgcolor;
+}
+
+.titles {
+    font-size: 42px;
+    font-family: "Lato";
+    color: rgb(204, 204, 204);
+    line-height: 1.2;
+  }
+  
+  .text {
+    font-size: 14px;
+    font-family: "Lato";
+    color: rgb(148, 148, 148);
+    line-height: 1.285;
+  }
+
+  .left_bar_backing {
+    background-color: #505050;
+  }
+  
+  .backing {
+    background-image: #adadad;
+  }
+  
+  .Footer {
+    background-color: #444444;
+
+  }
+  
+  .user_backing {
+    background-color: rgb(105, 8, 0);
+  }
+  
+  .highlight {
+    background-color:rgb(0, 0, 0);
+    opacity: 0.302;
+  }
