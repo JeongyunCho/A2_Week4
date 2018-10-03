@@ -2,6 +2,7 @@
 @import '_vars';
 
 //import required modules
-@import '_modules/_header';
-@import '_modules/_footer';
-@import '_modules/_classcontent';
+@import 'modules/_header';
+@import 'modules/_sidebar';
+@import 'modules/classcontent';
+@import 'modules/footer';
