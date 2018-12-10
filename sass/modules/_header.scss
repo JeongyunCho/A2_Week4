@@ -10,11 +10,11 @@
 
 .yellowBoxNav {
   position:relative;
-  display:inline-block;
-  float:right;
+  display:block;
+  float: right;
   margin-right:30px;
   text-align: center;
-  vertical-align: middle;
+
   cursor: pointer;
   background-color:$highlight_color;
   top: 50%;
