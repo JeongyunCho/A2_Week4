@@ -1,8 +1,14 @@
-//import vars and modules
+// import _vars
 @import '_vars';
-
-//import required modules
+@import '_mainRule';
+// import core modules partials
+@import 'modules/sidebar';
 @import 'modules/_header';
-@import 'modules/_sidebar';
-@import 'modules/classcontent';
-@import 'modules/footer';
+@import 'modules/_content';
+@import 'modules/_footer';
+
+
+
+
+
+

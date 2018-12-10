@@ -1,8 +1,8 @@
 {
-  "name": "a2_week4",
+  "name": "a2_week4_a-master",
   "version": "1.0.0",
-  "description": "in-class rebuild",
-  "main": "index.js",
+  "description": "demo project",
+  "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,14 +10,18 @@
     "type": "git",
     "url": "git+https://github.com/JeongyunCho/A2_Week4.git"
   },
-  "author": "Cho, Jorge",
+  "author": "Jeongyun Cho",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/JeongyunCho/A2_Week4/issues"
   },
   "homepage": "https://github.com/JeongyunCho/A2_Week4#readme",
   "devDependencies": {
+    "browser-sync": "^2.26.3",
     "gulp": "^3.9.1",
-    "gulp-sass": "^4.0.1"
+    "gulp-imagemin": "^5.0.3",
+    "gulp-sass": "^4.0.2",
+    "gulp-serve": "^1.4.0",
+    "node-sass": "^4.11.0"
   }
 }
