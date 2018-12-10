@@ -6,9 +6,9 @@ Use the LMS class files from class and build the top half of the page using SASS
 
 
 * [Git](https://git-scm.com/) -for versioning.
-* [Gulp.js] - used sass, serve with gulp.
-* [SASS] - used SASS to manipulate css.
-* [NPM] - npm to install gulp
+* [Gulp.js](https://gulpjs.com/) - used sass, serve with gulp.
+* [SASS](https://sass-lang.com/) - used SASS to manipulate css.
+* [NPM](https://www.npmjs.com/) - npm to install gulp
 
 
 ## Authors
